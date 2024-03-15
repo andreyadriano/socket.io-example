@@ -2,7 +2,7 @@
 
 ## Requisitos
 
-Você deve ter o node e npm instalados. Siga as instruções para instalar a versão mais recente do node e do yarn:
+Você deve ter o node e npm instalados. Rode o comando para instalar o npm:
 
     sudo apt install npm
 
